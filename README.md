@@ -1,5 +1,4 @@
-# Dstl-Satellite-Imagery-Feature-Detection
-# Can you train an eye in the sky? (Image Segmentation) 
+# Dstl-Satellite-Imagery-Feature-Detection. Can you train an eye in the sky? (Image Segmentation) 
 
 Objective: Semantic segmentation of different classes in satellite imagery.   
 
